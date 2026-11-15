@@ -13,5 +13,5 @@ Analisi avanzate cloustering, regressione lineare e test ANOVA
 * Infine ho costruito un power point di spiegazioni e passaggi e un report da presentare completo, con tutte le informazioni utili e disponibili.
 
   
-*Le librerie che ho utilizzato sono Pandas, Nunpy, Matplotlib, seaborn, scikit-learn, SciPy, statsmodels, il tutto in base python 3.13.9
+* Le librerie che ho utilizzato sono Pandas, Nunpy, Matplotlib, seaborn, scikit-learn, SciPy, statsmodels, il tutto in base python 3.13.9
 
